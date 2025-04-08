@@ -1,0 +1,34 @@
+{
+    "navItems" : [
+            {
+                "title": "About",
+                "link" : "about"
+            },
+
+            {"title" : "Resume", "link":"resume"}, 
+            {"title" : "Portfolio", "link" : "portfolio"},
+            {"title" : "Contact", "link":"contact"}
+    ],
+    "socialLinks" : {
+        "kakao" : "#",
+        "instagram" : "#",
+        "twitter" : "#",
+        "facebook" : "#"
+    },
+    "hero" : {
+        "title" : "AI보다 노력하는 개발자 Ryu의 블로그입니다.",
+        "subtitle" : " 무료로 제공되는 google서비스는 영어와 ai의 융합이라고 할 수 있죠 ",
+        "cta1" : "View My Work",
+        "cta2" : "Let's Connect",
+        "image" : { 
+            "img" : "img/hero.png",
+            "alt" : "web develop Ryu's blog"
+        },
+        
+        "stats" : [
+            {"number" : "5+", "label" : "Uears Experience"},
+            {"number" : "100+", "label": "Projects Completed"},
+            {"number" : "50+", "label": "Happy Clients"}
+        ]
+    }
+}
